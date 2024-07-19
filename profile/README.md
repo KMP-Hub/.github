@@ -1,7 +1,7 @@
 # Welcome to KMP Hub
 KMP Hub is dedicated to advancing Kotlin Multiplatform (KMP) development. Our mission is to foster collaboration and explore innovative cross-platform solutions.
 
-## About
+## About Us
 At KMP Hub, we believe in the potential of Kotlin Multiplatform to revolutionize cross-platform development. By enabling developers to write shared code across various platforms, KMP enhances efficiency and consistency in the development process.
 
 ## What We Do
